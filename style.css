@@ -1,0 +1,15 @@
+
+h1{
+  color: blue;
+  text-align: center;
+  font-family: Arial;
+  font-style: italic;
+ background-color: black;
+}
+img{
+  height: 300px;
+  width: 300px;
+}
+body{
+  background-color: lightseagreen
+}
