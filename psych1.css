@@ -1,0 +1,10 @@
+html{
+    background-color:#696969;
+}
+head{
+  font-family: Helvetica, "sans serif";
+  }
+  body{
+    font-family: Helvetica;
+    background: rgba(255, 255, 255, 0.02);
+  }
